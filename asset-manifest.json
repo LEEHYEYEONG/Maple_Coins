@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Maple_Coins/static/css/main.f7b063fd.css",
+    "main.js": "/Maple_Coins/static/js/main.19640e48.js",
+    "static/media/Maplestory Light.ttf": "/Maple_Coins/static/media/Maplestory Light.9d9497585053c96c8082.ttf",
+    "index.html": "/Maple_Coins/index.html",
+    "main.f7b063fd.css.map": "/Maple_Coins/static/css/main.f7b063fd.css.map",
+    "main.19640e48.js.map": "/Maple_Coins/static/js/main.19640e48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7b063fd.css",
+    "static/js/main.19640e48.js"
+  ]
+}
